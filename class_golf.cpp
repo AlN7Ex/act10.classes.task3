@@ -1,7 +1,6 @@
 #include "class_golf.h"
 
 #include <cstring>
-#include <iostream>
 
 Golf::Golf()
 {
